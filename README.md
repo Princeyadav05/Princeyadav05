@@ -4,7 +4,7 @@ Senior Backend Developer at [Deel](https://www.deel.com), building systems that 
 
 I work primarily with **GoLang**, **Node.js/NestJS**, **PostgreSQL**, and **AWS** — designing pricing engines, streaming pipelines, and services that handle millions of records.
 
-Outside of work, I write about Linux, open source tooling, and backend engineering.
+Outside of work, I write about Python, JS, Linux, open source tooling, and backend engineering.
 
 ## What I'm working with
 
