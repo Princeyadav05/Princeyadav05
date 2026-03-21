@@ -1,6 +1,6 @@
 # Hey, I'm Prince 👋
 
-Senior Backend Developer at [Deel](https://www.deel.com), building systems that power global workforce management. Previously at Tata AIG and HDFC Ergo, where I spent 5+ years building backend infrastructure for India's insurance industry at scale.
+Senior Backend Developer at [Deel](https://www.deel.com), building systems that power global workforce management. Previously at [Tata AIG](https://www.tataaig.com) and HDFC Ergo, where I spent 5+ years building backend infrastructure for India's insurance industry at scale.
 
 I work primarily with **GoLang**, **Node.js/NestJS**, **PostgreSQL**, and **AWS** — designing pricing engines, streaming pipelines, and services that handle millions of records.
 
