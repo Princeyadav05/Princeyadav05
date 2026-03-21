@@ -22,14 +22,13 @@ I contribute to tools I actually use. Some merged PRs across public repos:
 
 | Project | PR | What I did |
 |---|---|---|
-| [prettier/prettier](https://github.com/prettier/prettier) | [#16358](https://github.com/prettier/prettier/pull/16358) | Fixed handlebars path expressions starting with `@` |
+| [prettier/prettier](https://github.com/prettier/prettier) | [#16358](https://github.com/prettier/prettier/pull/16358) | Contributed to fix for handlebars path expressions starting with `@` |
 | [primer/react](https://github.com/primer/react) | [#4741](https://github.com/primer/react/pull/4741) | Added `className` support to `AnchoredOverlay` |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | [#6295](https://github.com/twentyhq/twenty/pull/6295) | Fixed HTTPS handling in `checkUrlType` for social links |
-| [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade) | [#359](https://github.com/keyshade-xyz/keyshade/pull/359) | Added parent directory check in CLI config |
-| [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade) | [#236](https://github.com/keyshade-xyz/keyshade/pull/236) | Moved feedback email to env config |
-| [raycast/extensions](https://github.com/raycast/extensions) | [Multiple PRs](https://github.com/raycast/extensions/pulls?q=is%3Apr+author%3APrinceyadav05+is%3Amerged) | Bug fixes & features for Todoist, GitHub Stars, Let Me Google That extensions |
+| [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade) | [2 merged PRs](https://github.com/keyshade-xyz/keyshade/pulls?q=is%3Apr+author%3APrinceyadav05+is%3Amerged) | CLI config validation, environment configuration cleanup |
+| [raycast/extensions](https://github.com/raycast/extensions) | [4 merged PRs](https://github.com/raycast/extensions/pulls?q=is%3Apr+author%3APrinceyadav05+is%3Amerged) | Bug fixes across Todoist, GitHub Stars & Let Me Google That extensions |
 
-[View all my merged PRs →](https://github.com/search?q=is%3Apr+author%3APrinceyadav05+is%3Amerged&type=pullrequests)
+[View all my merged PRs →](https://github.com/search?q=is%3Apr+author%3APrinceyadav05+is%3Amerged+-user%3APrinceyadav05+-repo%3Aprvnsingh%2FObjectDetectionResearchPaper+-repo%3Aavmain%2FAV-PHP-StarterFiles+-repo%3AMukulLatiyan%2FVigenere-Cipher&type=pullrequests)
 
 ## Technical Writing
 
