@@ -32,7 +32,7 @@ I contribute to tools I actually use. Some merged PRs across public repos:
 
 ## Technical Writing
 
-I've published **198 articles** on [TutorialsPoint](https://www.tutorialspoint.com/authors/prince-yadav/1), mostly covering Linux, open source tools, and system administration. Some articles have 12K+ views individually.
+I've published **198 articles** on [TutorialsPoint](https://www.tutorialspoint.com/authors/prince-yadav/1) with **760,000+ total views**, covering Python, Linux, JavaScript, Django, web development, and open source tooling. Top articles have 40K+ views individually.
 
 [Read my articles →](https://www.tutorialspoint.com/authors/prince-yadav/1)
 
