@@ -1,6 +1,6 @@
 # Hey, I'm Prince 👋
 
-Senior Backend Developer at [Deel](https://www.deel.com), building systems that power global workforce management. Previously at [Tata AIG](https://www.tataaig.com) and HDFC Ergo, where I spent 5+ years building backend infrastructure for India's insurance industry at scale.
+Backend developer. Lately building [Grayout](https://github.com/Princeyadav05/Grayout), an Android app that keeps your phone in grayscale.
 
 I work primarily with **GoLang**, **Node.js/NestJS**, **PostgreSQL**, and **AWS** — designing pricing engines, streaming pipelines, and services that handle millions of records.
 
@@ -38,6 +38,5 @@ I've published **198 articles** on [TutorialsPoint](https://www.tutorialspoint.c
 
 ## Find me
 
-- 🌐 [princeyadav.vercel.app](https://princeyadav.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/princeyadav05)
+- 𝕏 [@probablyprince](https://x.com/probablyprince)
 - ✍️ [TutorialsPoint](https://www.tutorialspoint.com/authors/prince-yadav/1)
